@@ -28,10 +28,10 @@ The data for this project was downloaded from Kaggle(world's largest data scienc
 
 ## Some Visuals From the project
 ### Distribution of different apps across different categories
-<img src="img/image1.JPG" width="21%" alt="car_outside">
+<img src="img/image1.JPG" width="80%" alt="car_outside">
 
 ### Sentiment Polarity Distribution
-<img src="img/image2.JPG" width="21%" alt="car_outside">
+<img src="img/image2.JPG" width="80%" alt="car_outside">
 
 
 
